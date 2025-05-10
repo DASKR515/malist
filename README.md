@@ -20,3 +20,10 @@ To install malist on Termux, run:
 
 ```bash
 curl -s https://raw.githubusercontent.com/DASKR515/malist/main/install.sh | bash
+```
+### On archlinux 
+
+To install malist on archlinux, run:
+
+```bash
+curl -s https://raw.githubusercontent.com/DASKR515/malist/main/install-arch.sh | bash
