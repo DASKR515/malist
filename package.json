@@ -1,0 +1,12 @@
+{
+  "name": "anime-cli",
+  "version": "1.0.0",
+  "description": "CLI tool to display top 10 anime from MyAnimeList ",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "DASKR",
+  "license": "MIT",
+  "dependencies": {}
+}
